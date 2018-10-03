@@ -1,0 +1,9 @@
+[package]
+name = "mxpt"
+version = "0.1.0"
+authors = ["mosm <airman515@gmail.com>"]
+
+[dependencies]
+image = "0.20.0"
+cgmath = "0.16.1"
+rand = "0.5.5"
